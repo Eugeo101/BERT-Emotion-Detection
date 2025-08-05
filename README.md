@@ -46,8 +46,7 @@ Detect the **emotion expressed in text**, such as joy, anger, fear, sadness, lov
   - Collect more examples, especially for *surprise* and *fear*.
   - Include more nuanced emotional expressions to improve model sensitivity.
 - **Model Improvements**:
-  - Experiment with larger or multilingual BERT variants.
-  - Incorporate multi-modal inputs (e.g., voice tone or facial expression).
+  - Experiment with larger BERT variants like R-BERT.
 
 ---
 
