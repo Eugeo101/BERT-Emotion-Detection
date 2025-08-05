@@ -1,6 +1,6 @@
-# Emotion Detection using Transfer Learning on BERT
+# BERT Emotion Detection: Transfer Learning & Finetunning 
 
-This project focuses on building an accurate **Emotion Detection system** using **transfer learning** on a pretrained **BERT model**. The dataset used is sourced from the [Hugging Face Emotion Dataset](https://huggingface.co/datasets/dair-ai/emotion), which contains labeled text samples across multiple emotion categories.
+This project focuses on building an accurate **Emotion Detection system** using **transfer learning** on a pretrained **BERT model**. The dataset used is sourced from the [Hugging Face Emotion Dataset](https://huggingface.co/datasets/sychonix/emotion), which contains labeled text samples across multiple emotion categories.
 
 ---
 
