@@ -57,8 +57,3 @@ Detect the **emotion expressed in text**, such as joy, anger, fear, sadness, lov
 - PyTorch
 - Scikit-learn
 - Matplotlib / Seaborn (for visualization)
-
----
-
-## 📁 Project Structure
-
